@@ -12,8 +12,10 @@ Chandra is available as a Python package and can be installed via pip.
 ```
 
 **Cell 2: Run Chandra on a Sample Document**
-*(Make sure to upload a PDF file named `sample.pdf` to your Colab environment before running this)*
 ```python
+# Download a sample PDF for testing
+!wget https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf -O sample.pdf
+
 # This will extract the contents of sample.pdf into an output folder
 !chandra sample.pdf ./output
 
