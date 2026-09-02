@@ -1,0 +1,5 @@
+## 活动 内容
+
+艾滋病宣传活动内容：艾滋病知识宣传活动，将艾滋病相关知识对居民进行讲解，提高大家对艾滋病的认识，能更好的关爱艾滋病患者和积极地预防艾滋病。
+
+![Large red AIDS ribbon graphic with the word AIDS clipped to it.](6a84589e38dfe7efc3fbd89fa418aaf6_3_img.webp)A large, stylized red AIDS ribbon graphic. The word "AIDS" is written in bold, red, blocky letters, and a red ribbon is tied around the letters, with the ends hanging down.![Four orange squares containing white icons: a plus sign, two people, a speaker, and a heart.](6a84589e38dfe7efc3fbd89fa418aaf6_4_img.webp)A 2x2 grid of four orange squares, each containing a white icon. The top-left square contains a white plus sign. The top-right square contains a white icon of two stylized human figures. The bottom-left square contains a white icon of a speaker with sound waves. The bottom-right square contains a white heart icon.

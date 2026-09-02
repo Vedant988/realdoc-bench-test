@@ -1,0 +1,3 @@
+**例 1** 如图所示，一艘渔船以 30 海里 / 时的速度由西向东航行．在  $A$  处看见小岛  $C$  在船北偏东  $60^\circ$  的方向上 .40 min 后，渔船行驶到  $B$  处，此时小岛  $C$  在船北偏东  $30^\circ$  的方向上．已知以小岛  $C$  为中心，10 海里为半径的范围内是多暗礁的危险区．如果这艘渔船继续向东航行，有没有进入危险区的可能？
+
+![A geometric diagram showing a ship's path from point A to point B. Point A is the starting point, and point B is the position after 40 minutes. A dashed vertical line at A is labeled '北' (North). The angle between this line and the line segment AC is 60 degrees. A second dashed vertical line is drawn at point B. The angle between this line and the line segment BC is 30 degrees. Point C represents the island. The ship's path is the horizontal line segment AB.](cfd254e005489997d77e5c755b8f1004_3_img.webp)

@@ -1,0 +1,5 @@
+## 情境导入
+
+小朋友们正在游泳呢！我们根据这个图能列出几个加减法算式呢？
+
+![A colorful illustration of children swimming in a pool.](a6f76268815cdcbaad15d435ba2f91c8_3_img.webp)A colorful illustration of a swimming pool. On the pool deck, three children are sitting: a boy in blue shorts, a boy in a yellow shirt and blue shorts, and a girl in a green swimsuit. In the water, there are six children swimming. One boy is in a blue inflatable ring, one girl is in a pink and yellow inflatable ring, one boy is in a yellow inflatable ring, and one girl is in a yellow inflatable ring. Two other children are swimming without rings, one boy and one girl. A yellow inflatable duck is also in the water. The pool has a green ladder on the left side and a yellow brick wall. The background is a light blue sky with some clouds and a green landscape at the bottom.

@@ -1,0 +1,4 @@
+node_modules/
+.next/
+*.ipynb
+chandra-ocr-benchmarking*

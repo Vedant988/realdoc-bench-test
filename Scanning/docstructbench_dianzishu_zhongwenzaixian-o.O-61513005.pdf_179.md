@@ -1,0 +1,8 @@
+![Interior view of the building at night, showing a large, illuminated, curved, lattice-like structure that resembles a giant leaf or a complex geometric form. The structure is made of metal and glass, with light glowing through the openings, creating a warm, golden glow against the dark night sky.](616cc4efae9044f1ff1f162809a569b5_1_img.webp)
+![Exterior view of the building at night, showing the same curved, lattice-like structure from a different angle. The structure is illuminated from within, making it stand out against the dark night sky. The building's unique shape is a prominent feature of the site.](616cc4efae9044f1ff1f162809a569b5_2_img.webp)
+
+新落成的建筑物位于历史公园内的美第奇要塞附近，包括主要的法庭和司法大厅的主席办公室，并与一栋曾是大型医院的新古典风格的大楼连接。这栋大楼被翻修后用来办公和存放档案。新侧楼的设计体现了它周围的环境：公园里茂盛的植物和城市的中世纪结构，一边被海螺墙包围着，另一边则对广场、花园和管区开放。
+
+此外，在北边，一面黑灰色调的大烧黑色花岗岩砖砌成的凹墙包围着新侧楼。在南边，以许多生物皮肤（包括树叶）为特色的几何变形图形塑造了起伏的、透明的、防晒的不锈钢门面。只用直线元素就可以塑造这些复杂的曲线形状。因此，银色的有关生物与气候的叶饰利用发亮的阴影保护了室内空间，与邻近的新古典主义建筑元素交织在一起。室内，镜子般的黑色抛光花岗岩地板的强烈反射与绿色玻璃包封和横向灰色音响平板形成对比。
+
+![Architectural cross-section diagram of the building. The diagram shows the internal structure, including floors, stairs, and various rooms. Key labels include 'E-1.17', 'E-1.02', 'E-1.01', 'E-1.07', 'E-2.03', 'E-2.02', 'E-2.01', and 'E-2.11'. Elevation markers are provided on the right side, ranging from -0.25 to 16.70. The diagram illustrates the building's integration with its surroundings, showing the ground level and the building's footprint.](616cc4efae9044f1ff1f162809a569b5_5_img.webp)

@@ -1,0 +1,94 @@
+1. 7. a shirt with the long (short) sleeves
+2. 8. red scarves
+3. 9. campus life
+4. 10. fly around
+5. 11. like playing in the playground
+6. 12. in the garden
+
+1. 13. study in the library
+2. 14. in the canteen
+3. 15. have ice cream and soft drinks
+4. 16. on the tree
+5. 17. keep warm
+6. 18. make snowmen/a snowman
+
+### III. 句子默写
+
+1. 1. All students must wear red scarves.
+2. 2. Not many students like playing in the playground because it is very hot.
+
+### IV. 词性转换默写
+
+<table border="1">
+<thead>
+<tr>
+<th>原 词</th>
+<th>词性/中文</th>
+<th>英 文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. season (n.)</td>
+<td>(adj.) 季节性的</td>
+<td>seasonal</td>
+</tr>
+<tr>
+<td>2. scarf (n.)</td>
+<td>(pl.) 围巾</td>
+<td>scarves</td>
+</tr>
+<tr>
+<td>3. leaf (n.)</td>
+<td>(pl.) 叶子</td>
+<td>leaves</td>
+</tr>
+<tr>
+<td>4. snowman (n.)</td>
+<td>(pl.) 雪人</td>
+<td>snowmen</td>
+</tr>
+<tr>
+<td>5. air-conditioned (adj.)</td>
+<td>(n.) 空调</td>
+<td>air-conditioner</td>
+</tr>
+</tbody>
+</table>
+
+### V. 1. change 2. Belt 3. life 4. notice 5. October
+
+VI. 1. B 2. B 3. B 4. D 5. B 6. D 7. A 8. A 9. C 10. C 11. A 12. A 13. D 14. B
+
+#### 【重点详解】
+
+2. in the tree和on the tree都表示“在树上”，但它们在用法上有区别。
+
+in the tree一般指不是树本身所有的事物，如人、动物等在树上。
+
+e.g. There is a kite in the tree. 树上有一只风筝。
+
+on the tree通常指树本身长出的东西，如枝、叶、花、果等。
+
+e.g. There are many apples on the tree. 树上有许多苹果。
+
+本题的意思是：当秋天来临的时候，树上的叶子开始变成红色。所以选择“on the tree”。
+
+8. keep的意思是“保持”。固定搭配：keep + (adj.)/keep + sb./sth. + (adj.)
+
+A选项open既可以作动词(打开)，也可以作形容词(开着的)，所以选A。
+
+keep the window open 把窗开著
+
+keep the window closed 把窗关著(这里的closed也是一个形容词，表示“关闭的”)
+
+10. both和neither均指两者之间。both表示肯定，“两者都”；neither表示否定，“两者都不”。
+
+all和none均指三者及三者以上。all表示肯定，意为“全部”；none表示否定，意为“没有一个”。
+
+这句话的意思是“根据校规，所有学生都必须戴红领巾，没有人可以违反规则”。学校的学生数量肯定大于二，所以选择all和none。
+
+13. put on强调状态的变化，即从没穿到穿上；wear强调状态，意为“穿着，戴著”。这句话的意思是“里面很热。你为什么还戴著一顶帽子？”
+
+VII. 1. air-conditioned 2. Air-conditioners 3. seasonal 4. More 5. Leaves 6. baking  
+7. snowmen

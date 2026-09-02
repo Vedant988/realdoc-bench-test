@@ -1,0 +1,5 @@
+![Top panel of a comic strip showing two men talking on mobile phones in an outdoor setting with modern buildings. Speech bubbles are present but redacted.](e32dfefe7913e9a8849cce485eb5318d_1_img.webp)![Middle-left panel of a comic strip showing a man in a suit talking on a mobile phone. A speech bubble is redacted.](e32dfefe7913e9a8849cce485eb5318d_2_img.webp)![Middle-right panel of a comic strip showing two men talking on mobile phones in front of a brick building. Speech bubbles are redacted.](e32dfefe7913e9a8849cce485eb5318d_3_img.webp)![Bottom panel of a comic strip showing a man in a lab coat talking on a mobile phone. A speech bubble is redacted.](e32dfefe7913e9a8849cce485eb5318d_4_img.webp)
+
+**B** Draw the route.
+
+![A diagram for drawing a route. It consists of a dashed rectangular border containing a grid of 12 horizontal bars. Each bar is divided into segments of different colors (yellow, grey, and white). A red dot is placed on the top-right bar, which is labeled with the letter 'R'.](e32dfefe7913e9a8849cce485eb5318d_6_img.webp)

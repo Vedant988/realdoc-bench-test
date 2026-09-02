@@ -1,0 +1,3 @@
+# 词类活用
+
+![A traditional Chinese calligraphy brush with a black handle and white bristles, positioned vertically on the left side of the scroll.](b61e3ff54431955e045dadd37c772181_3_img.webp)![The left-hand scroll of a traditional Chinese scroll, featuring a golden-yellow background with a dragon and cloud pattern.](b61e3ff54431955e045dadd37c772181_4_img.webp)![The right-hand scroll of a traditional Chinese scroll, featuring a golden-yellow background with a dragon and cloud pattern.](b61e3ff54431955e045dadd37c772181_5_img.webp)

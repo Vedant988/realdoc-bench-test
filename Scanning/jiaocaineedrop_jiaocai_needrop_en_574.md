@@ -1,0 +1,105 @@
+第三课时 练习课
+
+一、甲、乙两台机器的工作时间和耗电量如下表：
+
+<table border="1">
+<tbody>
+<tr>
+<td>时间/时</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>甲机器耗电量/千瓦时</td>
+<td>30</td>
+<td>60</td>
+<td>90</td>
+<td>120</td>
+<td>150</td>
+<td>180</td>
+</tr>
+<tr>
+<td>乙机器耗电量/千瓦时</td>
+<td>30</td>
+<td>90</td>
+<td>120</td>
+<td>180</td>
+<td>210</td>
+<td>240</td>
+</tr>
+</tbody>
+</table>
+
+1. 根据表中数据,在图中描出工作时间和耗电量所对应的点,再把它们按顺序连起来。
+
+![A coordinate graph with '时间/时' (Time in hours) on the x-axis (0 to 6) and '耗电量/千瓦时' (Energy consumption in kWh) on the y-axis (0 to 240). A legend indicates that a solid line represents machine 甲 (甲) and a dashed line represents machine 乙 (乙).](c9284c316b81b2c1762662ef0e40ff84_6_img.webp)
+
+2. 根据画出的图像, ( ) 机器的工作时间和耗电量成正比例。
+
+3. 根据图像判断,工作 2.5 小时,甲机器的耗电量是 ( ) 千瓦时。
+
+二、某商场的商品全部打九折出售。
+
+1. 完成下表：
+
+<table border="1">
+<tbody>
+<tr>
+<td>原价/元</td>
+<td>100</td>
+<td>200</td>
+<td>300</td>
+<td>400</td>
+<td>500</td>
+</tr>
+<tr>
+<td>现价/元</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+2. 完成下图：
+
+![A coordinate graph with '现价/元' (Current price in yuan) on the y-axis (0 to 600) and '原价/元' (Original price in yuan) on the x-axis (0 to 600).](c9284c316b81b2c1762662ef0e40ff84_12_img.webp)
+
+3. 如果用  $x$  表示原价,  $y$  表示现价, 那么
+
+$y = \underline{\hspace{2cm}}$ , 现价与原价是否成正比例? 为什么?
+
+三、下面是某种汽车所行路程和耗油量的对应数值表。
+
+<table border="1">
+<tbody>
+<tr>
+<td>所行路程/km</td>
+<td>15</td>
+<td>30</td>
+<td>45</td>
+<td>75</td>
+</tr>
+<tr>
+<td>耗油量/L</td>
+<td>2</td>
+<td>4</td>
+<td>6</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+1. 根据上表描点,再顺次连接各点。
+
+![A coordinate graph with '所行路程/km' (Distance traveled in km) on the x-axis (0 to 75) and '耗油量/L' (Fuel consumption in L) on the y-axis (0 to 10).](c9284c316b81b2c1762662ef0e40ff84_18_img.webp)
+
+2. 表中的耗油量与所行路程成正比例吗? 为什么?
+
+3. 利用图像估算一下,汽车行驶 60 km 时的耗油量是多少升? 耗油量是 5 L 时,汽车能行驶多少千米?

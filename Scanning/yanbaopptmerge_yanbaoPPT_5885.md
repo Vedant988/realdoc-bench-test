@@ -1,0 +1,4 @@
+解冻的小溪丁丁冬冬，  
+那是春天的琴声吧？
+
+![A colorful illustration of children playing in a spring landscape.](619572774aadeaa7b0bb5aee8dbb9f54_3_img.webp)A vibrant, cartoon-style illustration of a spring scene. In the foreground, three children are playing on a green grassy hill. One girl in a red jacket and blue pants is running towards the left. Another girl in a yellow jacket and purple pants is sitting on the grass, looking up at a yellow butterfly. A third girl in a pink jacket and blue pants is sitting on the grass, looking towards the right. In the background, there are green trees and a winding blue stream. On the right side of the stream, there is a small house with a red roof. A yellow megaphone is positioned near the stream, with sound waves emanating from it. The sky is a clear blue with a few white clouds. The overall atmosphere is cheerful and lively.

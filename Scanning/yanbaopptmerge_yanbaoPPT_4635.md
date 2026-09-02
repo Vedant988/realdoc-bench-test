@@ -1,0 +1,3 @@
+它们的村子散布在森林边缘的小丘上。这里，很多的黑甲虫村民，熙熙攘攘地往来。
+
+![A colorful illustration of a grassy landscape with several beetles. In the foreground, a large, multi-colored beetle with blue, green, and red segments is crawling on a light-colored rock. To its left, a smaller brown beetle is on the ground. In the background, a tall green grass stalk has a small red beetle on it. The scene is set against a backdrop of green grass and blue sky.](30fd892ae8b84e0587052dbf13148139_2_img.webp)

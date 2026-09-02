@@ -1,0 +1,3 @@
+## 骨成分的变化
+
+<table border="1"><thead><tr><th></th><th>骨内无机物含量</th><th>骨内有机物含量</th><th>特性</th></tr></thead><tbody><tr><td>儿童和青少年</td><td>不足 <math>\frac{2}{3}</math></td><td>超过 <math>\frac{1}{3}</math></td><td>弹性大，硬度小，柔韧，易变形，不易骨折</td></tr><tr><td>成年人</td><td>约 <math>\frac{2}{3}</math></td><td>约 <math>\frac{1}{3}</math></td><td>既坚固又有弹性</td></tr><tr><td>老年人</td><td>超过 <math>\frac{2}{3}</math></td><td>不足 <math>\frac{1}{3}</math></td><td>弹性小，硬度大，易骨折</td></tr></tbody></table>

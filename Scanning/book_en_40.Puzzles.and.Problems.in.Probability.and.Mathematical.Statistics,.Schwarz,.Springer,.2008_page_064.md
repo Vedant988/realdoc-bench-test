@@ -1,0 +1,13 @@
+### 3.11 The Optimal Level of Supply
+
+a. Clearly, if he orders no milk at all, there will be no gain and no loss,  $G(0) = 0$ . For very small  $c$ , the man will almost certainly sell his entire lot  $c$ , thereby gaining  $c(s-b)$ . Thus, for small  $c$ , the net gain  $G$  will increase linearly with slope  $s-b$  and thus be positive. For very large  $c$ , almost surely not all stocked milk will be sold; in this situation, each additional unit stocked will impose an additional loss of  $b$ . Thus, for  $c$  large,  $G$  will decrease linearly with slope  $-b$ . Therefore,  $G$  must have at least one positive maximum for  $c > 0$ .
+
+![Graph of Expected gain, G(c), versus Amount of milk stocked, c. The curve starts at (0,0), rises to a peak of approximately 39.1 at c ≈ 91, and then falls, crossing the x-axis at c ≈ 150 and reaching approximately -12 at c = 160.](c6ce5fb8abc75bdb9a9789cc53ace228_4_img.webp)
+
+The graph shows the expected net gain  $G(c)$  as a function of the amount of milk stocked  $c$ . The x-axis is labeled 'Amount of milk stocked, c' and ranges from 0 to 160 with major ticks every 20 units. The y-axis is labeled 'Expected gain, G(c)' and ranges from -10 to 40 with major ticks every 10 units. The curve starts at the origin (0,0), rises linearly with a positive slope, reaches a maximum value of approximately 39.1 at  $c \approx 91$ , and then falls linearly with a negative slope. It crosses the x-axis at approximately  $c = 150$  and continues to decrease, reaching approximately -12 at  $c = 160$ .
+
+Fig. 3.7. The typical relation between expected net gain,  $G(c)$ , and the amount of milk stocked,  $c$ . The example assumes that one unit of milk costs  $b = 1$  and is sold for  $s = 1.50$ . The demand is normally distributed, with mean 100 and standard deviation 20. (The normal distribution is not strictly positive, but for the values chosen it practically is.) The optimal amount the milkman should stock is then about 91 units, in which case his expected net gain is 39.1.
+
+b. If he orders  $c$  units and sells only some of them,  $0 \leq d \leq c$ , then the conditional expected net gain  $G(c|D = d)$  will be equal to  $d(s-b) - (c-d)b$  because his gain from the  $d$  units sold is  $d(s-b)$ , and the cost of the remaining  $c-d$  nonsold units is  $(c-d)b$ . On the other hand, if  $d \geq c$  he will sell all  $c$  units, yielding  $G(c|D = d) = c(s-b)$ .
+
+Conditioning on the demand  $D$  we get
