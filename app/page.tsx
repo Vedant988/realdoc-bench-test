@@ -208,6 +208,12 @@ export default function Home() {
           <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noopener noreferrer">vLLM</a>{' '}
           on Kaggle 2×T4 GPUs.
         </p>
+        <p style={{ marginTop: '0.75rem', color: 'var(--text-secondary)' }}>
+          <strong>Next Steps:</strong> We will soon evaluate this prediction dataset against the ground truth using the md2md evaluation method, and will update the metrics directly on the HuggingFace leaderboard.
+        </p>
+        <p style={{ marginTop: '1rem', fontSize: '0.85rem' }}>
+          Developed by <a href="https://github.com/vedant988" target="_blank" rel="noopener noreferrer">Vedant Badukale</a>
+        </p>
       </footer>
     </>
   );
